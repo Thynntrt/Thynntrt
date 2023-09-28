@@ -2,15 +2,11 @@
 
 [![May the force be with you!](https://img.shields.io/badge/May%20the%20Force-be%20with%20you!-yellow.svg)](https://www.starwars.com)
 
-With a passion for Star Wars and a love for creating with HTML, CSS, JavaScript, and React. I'm currently learning TypeScript to take my skills to the next level and create more robust and scalable web applications.
+With a passion for Star Wars and a love for creating.
+I'm currently learning JavaScript to take my skills to the next level and create more robust and scalable web applications.
 
 When I'm not battling the dark side of coding bugs, you can find me exploring new galaxies, binge-watching Star Wars movies and series, or tinkering with the latest tech gadgets.
 
-### My Tech Stack
-
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks and Libraries:** React
-- **Tools and Technologies:** Git, VS Code, Node.js, NPM
 
 ### Fun Fact
 
